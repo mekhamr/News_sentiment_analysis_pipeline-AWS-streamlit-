@@ -5,7 +5,8 @@ This project implements an end-to-end automated pipeline to fetch news articles,
 # 1. News API : 
 The application uses a News API to fetch the latest headlines. This API acts as the primary data source, delivering news articles in JSON format for processing.
 # 2. AWS Lambda (Scheduled Task via EventBridge)
-  1.a) Scheduled Trigger via EventBridge
+   # 1.a) Scheduled Trigger via EventBridge:
+  
        An AWS Lambda function is scheduled to run every 5 minutes using Amazon EventBridge.
       ![img2](https://github.com/user-attachments/assets/03a209d2-e389-4aa9-bbe4-984272a5e7cf)
 
