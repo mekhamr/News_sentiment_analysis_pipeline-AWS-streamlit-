@@ -8,7 +8,7 @@ The application uses a News API to fetch the latest headlines. This API acts as 
    # 1.a) Scheduled Trigger via EventBridge:
      An AWS Lambda function is scheduled to run every 5 minutes using Amazon EventBridge.
      
-      ![img2](https://github.com/user-attachments/assets/03a209d2-e389-4aa9-bbe4-984272a5e7cf)
+![img2](https://github.com/user-attachments/assets/03a209d2-e389-4aa9-bbe4-984272a5e7cf)
 
 
 
