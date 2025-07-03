@@ -10,7 +10,7 @@ A Dockerized Streamlit dashboard is pushed to Amazon ECR and deployed on ECS Far
 
 # 1.  Creating a News API : 
 An API key was created using the NewsAPI website to fetch the latest news headlines for processing.
-# 2. AWS  Lambda Function
+# 2. 
 
 
 
